@@ -1,4 +1,10 @@
+# 💫 Hi 👋, I'm RITESH PRADHAN
 
+Email Me 👉 ✉️ **riteshpradhan301@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** FINAL YEAR B.TECH PROJECT
+- 🌱 **I’m currently learning:** aws cloud 
+- 📫 **How to reach me:** riteshpradhan301@gmail.com 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ritesh-pradhan-444435266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshpradhan301@gmail.com) 
 
@@ -9,8 +15,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ritesh301&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh301&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ritesh301&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
