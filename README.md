@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm RITESH PRADHAN
+#  Hi 👋, I'm RITESH PRADHAN
 
 Email Me 👉 ✉️ **riteshpradhan301@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
